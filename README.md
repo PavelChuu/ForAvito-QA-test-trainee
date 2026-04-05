@@ -1,0 +1,1 @@
+# ForAvito-QA-test-trainee
