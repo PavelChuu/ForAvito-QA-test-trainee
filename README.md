@@ -27,4 +27,4 @@
 >Перед каждым новым запуском авто-тестов рекомендуется очищать папку **allure-results**
 
 ## Дополнительные возможности
-Имеется возможность создания троттлинга сети. Для этого нужно использовать [browser_set_up.py](https://github.com/PavelChuu/ForAvito-QA-test-trainee/blob/main/tests/browser_set_up.py). Настройка проходит отделать для мобильной и desktop версией брауезра.
+Имеется возможность создания троттлинга сети. Для этого нужно использовать [browser_set_up.py](https://github.com/PavelChuu/ForAvito-QA-test-trainee/blob/main/tests/browser_set_up.py). Настройка проходит отдельно для мобильной и desktop версией браузера.
